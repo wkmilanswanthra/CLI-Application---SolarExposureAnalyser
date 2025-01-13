@@ -1,0 +1,221 @@
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+User continuation choice: C
+User choice: 2
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+User continuation choice: c
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+User continuation choice: 2
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+User continuation choice: 3
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median solar exposure: 3.555556
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+User continuation choice: 2
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+User continuation choice: 2
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+User continuation choice: c
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305

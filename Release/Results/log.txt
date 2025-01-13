@@ -1,0 +1,1070 @@
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: 2
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 4
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: 1
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: 2
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 1.861111
+Frequency of mode: 81
+Max exposure: 8.972222 on 23/12/2023
+Min exposure: 0.861111 on 25/2/2023
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Mode exposure: 2.722222
+Frequency of mode: 100
+Max exposure: 8.916667 on 23/12/2023
+Min exposure: 0.722222 on 25/2/2023
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Standard deviation: 2.056414
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Standard deviation: 2.056414
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222
+Min exposure: 0.861111
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Standard deviation: 2.079018
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Standard deviation: 2.056414
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 12189
+Total columns: 6
+Max exposure: 10.000000
+Min exposure: 0.055556
+Mean exposure: 4.166872
+Median exposure: 3.611111
+Standard deviation: 2.317743
+Percentage of days within one SD: 64.465048%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 01/2009 with mean 8.292115
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 01/2009 with median 8.611111
+Month/Year with most consistent exposure: 06/2022 with variance 0.093796
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 5
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.159285
+Median exposure: 3.555556
+Standard deviation: 2.056414
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.658602
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.416667
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 8.972222
+Min exposure: 0.861111
+Mean exposure: 4.100000
+Median exposure: 3.722222
+Standard deviation: 2.079018
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.468638
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.805556
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 1
+Wrote converted data to Avalon_2023_Data_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.149954
+Median exposure: 3.541667
+Standard deviation: 2.051507
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.628704
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.263889
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 2
+Wrote converted data to Caulfeild_Racecourse_2023_Data_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.972222
+Min exposure: 0.861111
+Mean exposure: 4.089591
+Median exposure: 3.722222
+Standard deviation: 2.072352
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.421296
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.750000
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 12188
+Total columns: 6
+Max exposure: 10.000000
+Min exposure: 0.055556
+Mean exposure: 4.166455
+Median exposure: 3.611111
+Standard deviation: 2.317381
+Percentage of days within one SD: 64.470337%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 01/2009 with mean 8.292115
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 01/2009 with median 8.611111
+Month/Year with most consistent exposure: 06/2022 with variance 0.093796
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 12188
+Total columns: 6
+Max exposure: 10.000000
+Min exposure: 0.055556
+Mean exposure: 4.166455
+Median exposure: 3.611111
+Standard deviation: 2.317381
+Percentage of days within one SD: 64.470337%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 01/2009 with mean 8.292115
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 01/2009 with median 8.611111
+Month/Year with most consistent exposure: 06/2022 with variance 0.093796
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.149954
+Median exposure: 3.541667
+Standard deviation: 2.051507
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.628704
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.263889
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 4
+Wrote converted data to Caulfeild_Racecourse_All_Years_Data_kWhm^-2.csv
+Total rows: 362
+Total columns: 6
+Max exposure: 9.944444
+Min exposure: 0.055556
+Mean exposure: 4.558172
+Median exposure: 4.055556
+Standard deviation: 2.574516
+Percentage of days within one SD: 61.218837%
+Month/Year with lowest mean exposure: 06/2006 with mean 1.709259
+Month/Year with highest mean exposure: 12/2006 with mean 7.455197
+Month/Year with lowest median exposure: 06/2006 with median 1.791667
+Month/Year with highest median exposure: 01/2006 with median 8.208333
+Month/Year with most consistent exposure: 06/2006 with variance 0.228381
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 358
+Total columns: 6
+Max exposure: 9.722222
+Min exposure: 0.194444
+Mean exposure: 4.329676
+Median exposure: 3.944444
+Standard deviation: 2.380084
+Percentage of days within one SD: 62.464986%
+Month/Year with lowest mean exposure: 06/2002 with mean 1.727778
+Month/Year with highest mean exposure: 12/2002 with mean 6.603047
+Month/Year with lowest median exposure: 06/2002 with median 1.888889
+Month/Year with highest median exposure: 12/2002 with median 7.277778
+Month/Year with most consistent exposure: 07/2002 with variance 0.340087
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 364
+Total columns: 6
+Max exposure: 8.805556
+Min exposure: 0.944444
+Mean exposure: 4.222911
+Median exposure: 3.666667
+Standard deviation: 2.148500
+Percentage of days within one SD: 64.187328%
+Month/Year with lowest mean exposure: 06/2017 with mean 1.910185
+Month/Year with highest mean exposure: 01/2017 with mean 6.800926
+Month/Year with lowest median exposure: 06/2017 with median 1.847222
+Month/Year with highest median exposure: 01/2017 with median 7.472222
+Month/Year with most consistent exposure: 06/2017 with variance 0.185580
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 343
+Total columns: 6
+Max exposure: 9.500000
+Min exposure: 0.083333
+Mean exposure: 4.144737
+Median exposure: 3.736111
+Standard deviation: 2.401213
+Percentage of days within one SD: 61.695906%
+Month/Year with lowest mean exposure: 05/1997 with mean 1.565844
+Month/Year with highest mean exposure: 12/1997 with mean 6.784188
+Month/Year with lowest median exposure: 05/1997 with median 1.472222
+Month/Year with highest median exposure: 01/1997 with median 7.541666
+Month/Year with most consistent exposure: 07/1997 with variance 0.216910
+Wrote results to Results/results.csv
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 2062
+Total columns: 6
+Max exposure: 9.777778
+Min exposure: 0.055556
+Mean exposure: 4.184660
+Median exposure: 3.694444
+Standard deviation: 2.416910
+Percentage of days within one SD: 63.512858%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 12/2000 with mean 7.231481
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 12/1996 with median 7.750000
+Month/Year with most consistent exposure: 07/1997 with variance 0.216910
+Wrote results to Results/results.csv
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+User continuation choice: 9
+User choice: 9
+User choice: 9
+User choice: 6
+User continuation choice: D
+User choice: C
+User choice: J
+User choice: A
+User choice: C
+User choice: 0
+User choice: 0
+User choice: 0
+User choice: 3
+User continuation choice: c
+User choice: 6
+User continuation choice: c
+User choice: 6
+User continuation choice: c
+User choice: 6
+User continuation choice: c
+User choice: 3
+Wrote converted data to Avalon_All_Years_Data_kWhm^-2.csv
+Total rows: 297
+Total columns: 6
+Max exposure: 9.583333
+Min exposure: 0.305556
+Mean exposure: 4.325075
+Median exposure: 3.722222
+Standard deviation: 2.396839
+Percentage of days within one SD: 62.837838%
+Month/Year with lowest mean exposure: 06/1990 with mean 1.781401
+Month/Year with highest mean exposure: 01/1990 with mean 7.333333
+Month/Year with lowest median exposure: 06/1990 with median 1.750000
+Month/Year with highest median exposure: 01/1990 with median 7.694445
+Month/Year with most consistent exposure: 06/1990 with variance 0.241835
+Wrote results to Results/results.csv
+User continuation choice: c
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+User continuation choice: c
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 6
+Wrote converted data to IDCJAC0016_014163_1800_Data_kWhm^-2.csv
+Total rows: 338
+Total columns: 6
+Max exposure: 7.916667
+Min exposure: 0.388889
+Mean exposure: 5.805968
+Median exposure: 5.861111
+Standard deviation: 1.263973
+Percentage of days within one SD: 74.183976%
+Month/Year with lowest mean exposure: 02/1992 with mean 5.227012
+Month/Year with highest mean exposure: 03/1992 with mean 6.441756
+Month/Year with lowest median exposure: 06/1992 with median 5.388889
+Month/Year with highest median exposure: 11/1992 with median 6.750000
+Month/Year with most consistent exposure: 06/1992 with variance 0.053803
+Wrote results to Results/results.csv
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 7
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 7
+Wrote converted data to data_files/1_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.149954
+Median exposure: 3.541667
+Standard deviation: 2.051507
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.628704
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.263889
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to data_files/2_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 2.476852
+Min exposure: 0.200617
+Mean exposure: 1.154744
+Median exposure: 0.987654
+Standard deviation: 0.570416
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 0.571245
+Month/Year with highest mean exposure: 01/2023 with mean 1.826043
+Month/Year with lowest median exposure: 06/2023 with median 0.594136
+Month/Year with highest median exposure: 01/2023 with median 1.975309
+Month/Year with most consistent exposure: 06/2023 with variance 0.013449
+Wrote results to Results/results.csv
+Wrote converted data to data_files/3_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.972222
+Min exposure: 0.861111
+Mean exposure: 4.089591
+Median exposure: 3.722222
+Standard deviation: 2.072352
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.421296
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.750000
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Wrote converted data to data_files/4_kWhm^-2.csv
+Total rows: 12188
+Total columns: 6
+Max exposure: 10.000000
+Min exposure: 0.055556
+Mean exposure: 4.166455
+Median exposure: 3.611111
+Standard deviation: 2.317381
+Percentage of days within one SD: 64.470337%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 01/2009 with mean 8.292115
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 01/2009 with median 8.611111
+Month/Year with most consistent exposure: 06/2022 with variance 0.093796
+Wrote results to Results/results.csv
+Wrote converted data to data_files/5_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 2.492284
+Min exposure: 0.239197
+Mean exposure: 1.138783
+Median exposure: 1.033951
+Standard deviation: 0.578037
+Percentage of days within one SD: 65.479452%
+Month/Year with lowest mean exposure: 06/2023 with mean 0.550154
+Month/Year with highest mean exposure: 01/2023 with mean 1.781077
+Month/Year with lowest median exposure: 06/2023 with median 0.543981
+Month/Year with highest median exposure: 01/2023 with median 1.890432
+Month/Year with most consistent exposure: 06/2023 with variance 0.013496
+Wrote results to Results/results.csv
+Wrote converted data to data_files/6_kWhm^-2.csv
+Total rows: 12183
+Total columns: 6
+Max exposure: 9.944444
+Min exposure: 0.027778
+Mean exposure: 4.153487
+Median exposure: 3.583333
+Standard deviation: 2.390737
+Percentage of days within one SD: 64.028895%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.460859
+Month/Year with highest mean exposure: 01/2009 with mean 8.371864
+Month/Year with lowest median exposure: 05/1997 with median 1.416667
+Month/Year with highest median exposure: 01/2009 with median 8.916667
+Month/Year with most consistent exposure: 06/2022 with variance 0.125768
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 7
+Wrote converted data to data_files/1_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.149954
+Median exposure: 3.541667
+Standard deviation: 2.051507
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.628704
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.263889
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to data_files/2_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 2.476852
+Min exposure: 0.200617
+Mean exposure: 1.154744
+Median exposure: 0.987654
+Standard deviation: 0.570416
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 0.571245
+Month/Year with highest mean exposure: 01/2023 with mean 1.826043
+Month/Year with lowest median exposure: 06/2023 with median 0.594136
+Month/Year with highest median exposure: 01/2023 with median 1.975309
+Month/Year with most consistent exposure: 06/2023 with variance 0.013449
+Wrote results to Results/results.csv
+Wrote converted data to data_files/3_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.972222
+Min exposure: 0.861111
+Mean exposure: 4.089591
+Median exposure: 3.722222
+Standard deviation: 2.072352
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.421296
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.750000
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Wrote converted data to data_files/4_kWhm^-2.csv
+Total rows: 12188
+Total columns: 6
+Max exposure: 10.000000
+Min exposure: 0.055556
+Mean exposure: 4.166455
+Median exposure: 3.611111
+Standard deviation: 2.317381
+Percentage of days within one SD: 64.470337%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 01/2009 with mean 8.292115
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 01/2009 with median 8.611111
+Month/Year with most consistent exposure: 06/2022 with variance 0.093796
+Wrote results to Results/results.csv
+Wrote converted data to data_files/5_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 2.492284
+Min exposure: 0.239197
+Mean exposure: 1.138783
+Median exposure: 1.033951
+Standard deviation: 0.578037
+Percentage of days within one SD: 65.479452%
+Month/Year with lowest mean exposure: 06/2023 with mean 0.550154
+Month/Year with highest mean exposure: 01/2023 with mean 1.781077
+Month/Year with lowest median exposure: 06/2023 with median 0.543981
+Month/Year with highest median exposure: 01/2023 with median 1.890432
+Month/Year with most consistent exposure: 06/2023 with variance 0.013496
+Wrote results to Results/results.csv
+Wrote converted data to data_files/6_kWhm^-2.csv
+Total rows: 12183
+Total columns: 6
+Max exposure: 9.944444
+Min exposure: 0.027778
+Mean exposure: 4.153487
+Median exposure: 3.583333
+Standard deviation: 2.390737
+Percentage of days within one SD: 64.028895%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.460859
+Month/Year with highest mean exposure: 01/2009 with mean 8.371864
+Month/Year with lowest median exposure: 05/1997 with median 1.416667
+Month/Year with highest median exposure: 01/2009 with median 8.916667
+Month/Year with most consistent exposure: 06/2022 with variance 0.125768
+Wrote results to Results/results.csv
+User continuation choice: e
+Displayed Welcome Message
+Displayed usage instructions
+User choice: 7
+Wrote converted data to data_files/1_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.916667
+Min exposure: 0.722222
+Mean exposure: 4.149954
+Median exposure: 3.541667
+Standard deviation: 2.051507
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 2.056481
+Month/Year with highest mean exposure: 01/2023 with mean 6.628704
+Month/Year with lowest median exposure: 06/2023 with median 2.138889
+Month/Year with highest median exposure: 01/2023 with median 7.263889
+Month/Year with most consistent exposure: 06/2023 with variance 0.174305
+Wrote results to Results/results.csv
+Wrote converted data to data_files/2_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 2.476852
+Min exposure: 0.200617
+Mean exposure: 1.154744
+Median exposure: 0.987654
+Standard deviation: 0.570416
+Percentage of days within one SD: 65.205479%
+Month/Year with lowest mean exposure: 06/2023 with mean 0.571245
+Month/Year with highest mean exposure: 01/2023 with mean 1.826043
+Month/Year with lowest median exposure: 06/2023 with median 0.594136
+Month/Year with highest median exposure: 01/2023 with median 1.975309
+Month/Year with most consistent exposure: 06/2023 with variance 0.013449
+Wrote results to Results/results.csv
+Wrote converted data to data_files/3_kWhm^-2.csv
+Total rows: 365
+Total columns: 6
+Max exposure: 8.972222
+Min exposure: 0.861111
+Mean exposure: 4.089591
+Median exposure: 3.722222
+Standard deviation: 2.072352
+Percentage of days within one SD: 65.384615%
+Month/Year with lowest mean exposure: 06/2023 with mean 1.980555
+Month/Year with highest mean exposure: 01/2023 with mean 6.421296
+Month/Year with lowest median exposure: 06/2023 with median 1.958333
+Month/Year with highest median exposure: 01/2023 with median 6.750000
+Month/Year with most consistent exposure: 06/2023 with variance 0.174905
+Wrote results to Results/results.csv
+Wrote converted data to data_files/4_kWhm^-2.csv
+Total rows: 12188
+Total columns: 6
+Max exposure: 10.000000
+Min exposure: 0.055556
+Mean exposure: 4.166455
+Median exposure: 3.611111
+Standard deviation: 2.317381
+Percentage of days within one SD: 64.470337%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.251208
+Month/Year with highest mean exposure: 01/2009 with mean 8.292115
+Month/Year with lowest median exposure: 06/1995 with median 1.194444
+Month/Year with highest median exposure: 01/2009 with median 8.611111
+Month/Year with most consistent exposure: 06/2022 with variance 0.093796
+Wrote results to Results/results.csv
+Wrote converted data to data_files/5_kWhm^-2.csv
+Total rows: 366
+Total columns: 6
+Max exposure: 2.492284
+Min exposure: 0.239197
+Mean exposure: 1.138783
+Median exposure: 1.033951
+Standard deviation: 0.578037
+Percentage of days within one SD: 65.479452%
+Month/Year with lowest mean exposure: 06/2023 with mean 0.550154
+Month/Year with highest mean exposure: 01/2023 with mean 1.781077
+Month/Year with lowest median exposure: 06/2023 with median 0.543981
+Month/Year with highest median exposure: 01/2023 with median 1.890432
+Month/Year with most consistent exposure: 06/2023 with variance 0.013496
+Wrote results to Results/results.csv
+Wrote converted data to data_files/6_kWhm^-2.csv
+Total rows: 12183
+Total columns: 6
+Max exposure: 9.944444
+Min exposure: 0.027778
+Mean exposure: 4.153487
+Median exposure: 3.583333
+Standard deviation: 2.390737
+Percentage of days within one SD: 64.028895%
+Month/Year with lowest mean exposure: 06/1995 with mean 1.460859
+Month/Year with highest mean exposure: 01/2009 with mean 8.371864
+Month/Year with lowest median exposure: 05/1997 with median 1.416667
+Month/Year with highest median exposure: 01/2009 with median 8.916667
+Month/Year with most consistent exposure: 06/2022 with variance 0.125768
+Wrote results to Results/results.csv
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions
+Displayed Welcome Message
+Displayed usage instructions

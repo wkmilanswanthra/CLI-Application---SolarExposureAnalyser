@@ -1,0 +1,5 @@
+﻿  Main.cpp
+H:\Work\Adeesha AcademicHub\C++ application 19th Sept 16000\Application\TuringMooreEngineeringSolarExposureAnalyser\Main.cpp(219,28): warning C4018: '>': signed/unsigned mismatch
+H:\Work\Adeesha AcademicHub\C++ application 19th Sept 16000\Application\TuringMooreEngineeringSolarExposureAnalyser\Main.cpp(233,28): warning C4018: '>': signed/unsigned mismatch
+H:\Work\Adeesha AcademicHub\C++ application 19th Sept 16000\Application\TuringMooreEngineeringSolarExposureAnalyser\Main.cpp(368,26): warning C4018: '<': signed/unsigned mismatch
+  TuringMooreEngineeringSolarExposureAnalyser.vcxproj -> H:\Work\Adeesha AcademicHub\C++ application 19th Sept 16000\Application\TuringMooreEngineeringSolarExposureAnalyser\Debug\TuringMooreEngineeringSolarExposureAnalyser.exe
